@@ -2,42 +2,42 @@ import React, { useState } from "react";
 import CyberpunkNavbar from "./Navbar";
 import { Cpu, Zap, Box } from "lucide-react";
 import Footer from "./Footer";
-const img9 =`${process.env.REACT_APP_BUCKET}image1.jpg`;
-const img10 =`${process.env.REACT_APP_BUCKET}image2.jpg`;
-const img11 =`${process.env.REACT_APP_BUCKET}image3.jpg`;
-const img12 =`${process.env.REACT_APP_BUCKET}image4.jpg`;
-const img13 =`${process.env.REACT_APP_BUCKET}image5.jpg`;
-const img14 =`${process.env.REACT_APP_BUCKET}image61.jpg`;
-const img15 =`${process.env.REACT_APP_BUCKET}image7.jpeg`;
-const img16 =`${process.env.REACT_APP_BUCKET}image8.jpg`;
-const img17 =`${process.env.REACT_APP_BUCKET}image9.jpg`;
-const img18 =`${process.env.REACT_APP_BUCKET}image10.jpg`;
-const img19 =`${process.env.REACT_APP_BUCKET}image11.jpeg`;
-const img20 =`${process.env.REACT_APP_BUCKET}image12.jpg`;
-const img21 =`${process.env.REACT_APP_BUCKET}image13.png`;
-const img22 =`${process.env.REACT_APP_BUCKET}image14.jpg`;
-const img23 =`${process.env.REACT_APP_BUCKET}image15.png`;
-const img24 =`${process.env.REACT_APP_BUCKET}image16.jpeg`;
-const img25 =`${process.env.REACT_APP_BUCKET}image17.jpeg`;
-const img26 =`${process.env.REACT_APP_BUCKET}image18.jpg`;
-const img27 =`${process.env.REACT_APP_BUCKET}image19.jpg`;
-const img28 =`${process.env.REACT_APP_BUCKET}image20.jpg`;
-const img29 =`${process.env.REACT_APP_BUCKET}image21.jpg`;
-const img0 =`${process.env.REACT_APP_BUCKET}image22.jpg`;
-const img30 =`${process.env.REACT_APP_BUCKET}ayush.jpeg`;
-const img31 =`${process.env.REACT_APP_BUCKET}ganesh.jpg`;
-const img32 =`${process.env.REACT_APP_BUCKET}sanchi.jpg`;
-const img33 =`${process.env.REACT_APP_BUCKET}padam.jpeg`;
-const img34 =`${process.env.REACT_APP_BUCKET}shubh.webp`;
-const img35 =`${process.env.REACT_APP_BUCKET}aaditi.jpg`;
-const img36 =`${process.env.REACT_APP_BUCKET}Addhar.jpg`;
-const img37 =`${process.env.REACT_APP_BUCKET}atri.jpg`;
-const img38 =`${process.env.REACT_APP_BUCKET}divanyanshu.jpg`;
+const img9 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/2.png`;
+// const img10 =`${process.env.REACT_APP_BUCKET}image2.jpg`;
+// const img11 =`${process.env.REACT_APP_BUCKET}image3.jpg`;
+// const img12 =`${process.env.REACT_APP_BUCKET}image4.jpg`;
+// const img13 =`${process.env.REACT_APP_BUCKET}image5.jpg`;
+// const img14 =`${process.env.REACT_APP_BUCKET}image61.jpg`;
+// const img15 =`${process.env.REACT_APP_BUCKET}image7.jpeg`;
+// const img16 =`${process.env.REACT_APP_BUCKET}image8.jpg`;
+// const img17 =`${process.env.REACT_APP_BUCKET}image9.jpg`;
+// const img18 =`${process.env.REACT_APP_BUCKET}image10.jpg`;
+// const img19 =`${process.env.REACT_APP_BUCKET}image11.jpeg`;
+// const img20 =`${process.env.REACT_APP_BUCKET}image12.jpg`;
+// const img21 =`${process.env.REACT_APP_BUCKET}image13.png`;
+// const img22 =`${process.env.REACT_APP_BUCKET}image14.jpg`;
+// const img23 =`${process.env.REACT_APP_BUCKET}image15.png`;
+// const img24 =`${process.env.REACT_APP_BUCKET}image16.jpeg`;
+// const img25 =`${process.env.REACT_APP_BUCKET}image17.jpeg`;
+// const img26 =`${process.env.REACT_APP_BUCKET}image18.jpg`;
+// const img27 =`${process.env.REACT_APP_BUCKET}image19.jpg`;
+// const img28 =`${process.env.REACT_APP_BUCKET}image20.jpg`;
+// const img29 =`${process.env.REACT_APP_BUCKET}image21.jpg`;
+// const img0 =`${process.env.REACT_APP_BUCKET}image22.jpg`;
+// const img30 =`${process.env.REACT_APP_BUCKET}ayush.jpeg`;
+// const img31 =`${process.env.REACT_APP_BUCKET}ganesh.jpg`;
+// const img32 =`${process.env.REACT_APP_BUCKET}sanchi.jpg`;
+// const img33 =`${process.env.REACT_APP_BUCKET}padam.jpeg`;
+// const img34 =`${process.env.REACT_APP_BUCKET}shubh.webp`;
+// const img35 =`${process.env.REACT_APP_BUCKET}aaditi.jpg`;
+// const img36 =`${process.env.REACT_APP_BUCKET}Addhar.jpg`;
+// const img37 =`${process.env.REACT_APP_BUCKET}atri.jpg`;
+// const img38 =`${process.env.REACT_APP_BUCKET}divanyanshu.jpg`;
 
 const teamMembers = [
   {
     category: "Executive Board",
-    name: "Akshit Kain",
+    name: "Vinay Kumar",
     title: "Chairperson",
     image: img9,
     linkedin: "https://www.linkedin.com/in/akshitkain/",
