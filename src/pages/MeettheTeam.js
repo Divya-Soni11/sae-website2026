@@ -4,7 +4,7 @@ import { Cpu, Zap, Box } from "lucide-react";
 import Footer from "./Footer";
 const img9 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/2.png`;
 // const img10 =`${process.env.REACT_APP_BUCKET}image2.jpg`;
-// const img11 =`${process.env.REACT_APP_BUCKET}image3.jpg`;
+const img11 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/6.png`;
 // const img12 =`${process.env.REACT_APP_BUCKET}image4.jpg`;
 // const img13 =`${process.env.REACT_APP_BUCKET}image5.jpg`;
 // const img14 =`${process.env.REACT_APP_BUCKET}image61.jpg`;
@@ -40,8 +40,8 @@ const teamMembers = [
     name: "Vinay ",
     title: "Chairperson",
     image: img9,
-    linkedin: "https://www.linkedin.com/in/akshitkain/",
-    instagram: "https://www.instagram.com/akshit_kain/",
+    linkedin: "https://www.linkedin.com/in/vinay-kumar-100a94311/",
+    instagram: "https://www.instagram.com/vinay.mav?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
   // {
   //   category: "Executive Board",
@@ -52,15 +52,15 @@ const teamMembers = [
   //   instagram:
   //     "https://www.instagram.com/parth._.04/profilecard/?igsh=MW5vYWozamtxc2pqNw==",
   // },
-  // {
-  //   category: "Executive Board",
-  //   name: "Vinayak Sharma",
-  //   title: "Club Co-ordinator",
-  //   image: img11,
-  //   linkedin: "https://www.linkedin.com/in/vinayak-sharma-b8379a302/",
-  //   instagram:
-  //     "https://www.instagram.com/ig.vinayaksharma/?utm_source=ig_web_button_share_sheet",
-  // },
+  {
+    category: "Executive Board",
+    name: "Aryan Sahu",
+    title: "Club Co-ordinator",
+    image: img11,
+    linkedin: "https://www.linkedin.com/in/aryan-sahu-918679207/",
+    instagram:
+      "https://www.instagram.com/aryan141414?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
   // {
   //   category: "Executive Board",
   //   name: "Prashant Singh",
