@@ -5,12 +5,12 @@ import Footer from "./Footer";
 const img9 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/2.png`;
 // const img10 =`${process.env.REACT_APP_BUCKET}image2.jpg`;
 const img11 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/6.png`;
-// const img12 =`${process.env.REACT_APP_BUCKET}image4.jpg`;
-// const img13 =`${process.env.REACT_APP_BUCKET}image5.jpg`;
+const img12 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/3.png`;
+const img13 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/4.png`;
 // const img14 =`${process.env.REACT_APP_BUCKET}image61.jpg`;
-// const img15 =`${process.env.REACT_APP_BUCKET}image7.jpeg`;
-// const img16 =`${process.env.REACT_APP_BUCKET}image8.jpg`;
-// const img17 =`${process.env.REACT_APP_BUCKET}image9.jpg`;
+const img15 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/5.png`;
+const img16 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/7.png`;
+const img17 =`${process.env.REACT_APP_BUCKET}}EB PHOTO 2025 (1)/8.png`;
 // const img18 =`${process.env.REACT_APP_BUCKET}image10.jpg`;
 // const img19 =`${process.env.REACT_APP_BUCKET}image11.jpeg`;
 // const img20 =`${process.env.REACT_APP_BUCKET}image12.jpg`;
@@ -61,22 +61,22 @@ const teamMembers = [
     instagram:
       "https://www.instagram.com/aryan141414?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
-  // {
-  //   category: "Executive Board",
-  //   name: "Prashant Singh",
-  //   title: "Secretary",
-  //   image: img12,
-  //   linkedin: "https://www.linkedin.com/in/prashant-singh-30314a2a9/",
-  //   instagram: "https://www.instagram.com/_prashant__4646/",
-  // },
-  // {
-  //   category: "Executive Board",
-  //   name: "Saksham Rathore",
-  //   title: "Treasurer",
-  //   image: img13,
-  //   linkedin: "https://www.linkedin.com/in/saksham-rathore-2330ba305",
-  //   instagram: "https://www.instagram.com/sakshamrathore214/#",
-  // },
+  {
+    category: "Executive Board",
+    name: "Ujjval Siwach",
+    title: "Secretary",
+    image: img12,
+    // linkedin: "https://www.linkedin.com/in/prashant-singh-30314a2a9/",
+    instagram: "https://www.instagram.com/ujjval.siwach?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Executive Board",
+    name: "Anshuman Sharma",
+    title: "Treasurer",
+    image: img13,
+    linkedin: "https://www.linkedin.com/in/anshuman-sharma-348584334/",
+    instagram: "https://www.instagram.com/10anshu_man01/?utm_source=ig_web_button_share_sheet",
+  },
   // {
   //   category: "Executive Board",
   //   name: "Gaurav Patel",
@@ -85,31 +85,31 @@ const teamMembers = [
   //   linkedin: "https://www.linkedin.com/in/gaurav-patel-50a6041b5/",
   //   instagram: "https://www.instagram.com/gaurav6.0/",
   // },
-  // {
-  //   category: "Executive Board",
-  //   name: "Harsh Bassal",
-  //   title: "Technical Chair",
-  //   image: img15,
-  //   linkedin: "https://www.linkedin.com/in/harsh-bassal-3a47811b0/",
-  //   instagram: "https://www.instagram.com/harsh_bassal_/",
-  // },
-  // {
-  //   category: "Executive Board",
-  //   name: "Shubham Kumar",
-  //   title: "Program Chair",
-  //   image: img16,
-  //   linkedin: "#",
-  //   instagram: "https://www.linkedin.com/in/shubhamkumar56018/",
-  // },
-  // {
-  //   category: "Executive Board",
-  //   name: "Yeeshu",
-  //   title: "Finance Chair",
-  //   image: img17,
-  //   linkedin: "https://www.linkedin.com/in/yeeshu-nayak-314787251",
-  //   instagram:
-  //     "https://www.instagram.com/yeeshu0111/profilecard/?igsh=MXBycjRqMjdoa2UzMg==",
-  // },
+  {
+    category: "Executive Board",
+    name: "Mohit Kumar",
+    title: "Technical Chair",
+    image: img15,
+    linkedin: "https://www.linkedin.com/in/mohit-kumar-2b72a1207/",
+    instagram: "https://www.instagram.com/_mohit_kum05/?utm_source=ig_web_button_share_sheet",
+  },
+  {
+    category: "Executive Board",
+    name: "Waquee Mubarak",
+    title: "Program & Content Chair",
+    image: img16,
+    linkedin: "https://www.linkedin.com/in/waquee-mubarak-a69041208/",
+    instagram: "https://www.instagram.com/waquee_mk/",
+  },
+  {
+    category: "Executive Board",
+    name: "Balbina Wadhwa",
+    title: "Business & Finance Chair",
+    image: img17,
+    linkedin: "https://www.linkedin.com/in/balbina-wadhwa-86932b321/",
+    instagram:
+      "https://www.instagram.com/binavolent?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
   // {
   //   category: "Core Committee",
   //   name: "Ambar Chaurasiya",
