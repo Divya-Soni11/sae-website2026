@@ -36,7 +36,7 @@ const img38 =`${process.env.REACT_APP_BUCKET}Sahil Minz.png`;
 const img39 =`${process.env.REACT_APP_BUCKET}sehaj.jpg`;
 const img40 =`${process.env.REACT_APP_BUCKET}Shrishti_Tripathi.jpg`;
 const img41=`${process.env.REACT_APP_BUCKET}Sweksha Mahto.jpeg`;
-const img24=`${process.env.REACT_APP_BUCKET}Vinit.jpeg`;
+const img42=`${process.env.REACT_APP_BUCKET}Vinit.jpeg`;
 
 
 const teamMembers = [
