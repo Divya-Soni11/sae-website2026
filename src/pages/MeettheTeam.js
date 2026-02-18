@@ -12,22 +12,22 @@ const img15 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/5.png`;
 const img16 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/7.png`;
 const img17 =`${process.env.REACT_APP_BUCKET}}EB PHOTO 2025 (1)/8.png`;
 const img18 =`${process.env.REACT_APP_BUCKET}Divya Soni.png`;
-// const img19 =`${process.env.REACT_APP_BUCKET}image11.jpeg`;
-// const img20 =`${process.env.REACT_APP_BUCKET}image12.jpg`;
-// const img21 =`${process.env.REACT_APP_BUCKET}image13.png`;
-// const img22 =`${process.env.REACT_APP_BUCKET}image14.jpg`;
-// const img23 =`${process.env.REACT_APP_BUCKET}image15.png`;
-// const img24 =`${process.env.REACT_APP_BUCKET}image16.jpeg`;
-// const img25 =`${process.env.REACT_APP_BUCKET}image17.jpeg`;
-// const img26 =`${process.env.REACT_APP_BUCKET}image18.jpg`;
-// const img27 =`${process.env.REACT_APP_BUCKET}image19.jpg`;
-// const img28 =`${process.env.REACT_APP_BUCKET}image20.jpg`;
-// const img29 =`${process.env.REACT_APP_BUCKET}image21.jpg`;
+const img19 =`${process.env.REACT_APP_BUCKET}Chanpreet_kaur.jpg`;
+const img20 =`${process.env.REACT_APP_BUCKET}DEVESH.jpg`;
+const img21 =`${process.env.REACT_APP_BUCKET}Aaditi.webp`;
+const img22 =`${process.env.REACT_APP_BUCKET}Hansika.png`;
+const img23 =`${process.env.REACT_APP_BUCKET}harsh_bhati.jpg`;
+const img24 =`${process.env.REACT_APP_BUCKET}Ishant.jpg`;
+const img25 =`${process.env.REACT_APP_BUCKET}Jatin.jpg`;
+const img26 =`${process.env.REACT_APP_BUCKET}Shubham.webp`;
+const img27 =`${process.env.REACT_APP_BUCKET}Shubham Raj.jpg`;
+const img28 =`${process.env.REACT_APP_BUCKET}Snehasish_Kundu.jpg`;
+const img29 =`${process.env.REACT_APP_BUCKET}Talha.png`;
 // const img0 =`${process.env.REACT_APP_BUCKET}image22.jpg`;
-// const img30 =`${process.env.REACT_APP_BUCKET}ayush.jpeg`;
-// const img31 =`${process.env.REACT_APP_BUCKET}ganesh.jpg`;
-// const img32 =`${process.env.REACT_APP_BUCKET}sanchi.jpg`;
-// const img33 =`${process.env.REACT_APP_BUCKET}padam.jpeg`;
+const img30 =`${process.env.REACT_APP_BUCKET}Udit Saini.JPG`;
+const img31 =`${process.env.REACT_APP_BUCKET}Naman Gupta.jpg`;
+const img32 =`${process.env.REACT_APP_BUCKET}Persant.jpg`;
+const img33 =`${process.env.REACT_APP_BUCKET}Rahul Raj.jpeg`;
 // const img34 =`${process.env.REACT_APP_BUCKET}shubh.webp`;
 // const img35 =`${process.env.REACT_APP_BUCKET}aaditi.jpg`;
 // const img36 =`${process.env.REACT_APP_BUCKET}Addhar.jpg`;
@@ -119,95 +119,140 @@ const teamMembers = [
     instagram:
       "https://www.instagram.com/divyasoni._1011?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
-  // {
-  //   category: "Core Committee",
-  //   name: "Moksh Garg",
-  //   title: " Member",
-  //   image: img19,
-  //   linkedin: "https://www.linkedin.com/in/moksh-garg-6092b7291",
-  //   instagram:
-  //     "https://www.instagram.com/mokshgarrg/profilecard/?igsh=d3MzZDhoaWhudjJ3",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Nikhil Mathuriya",
-  //   title: " Member",
-  //   image: img20,
-  //   linkedin: "#",
-  //   instagram:
-  //     "https://www.instagram.com/nikhilmathuriya9/profilecard/?igsh=YWQ4Mzk0MjFsaDd1",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Pratimaan Tripathi",
-  //   title: "Member",
-  //   image: img21,
-  //   linkedin: "http://linkedin.com/in/pratimaan-tripathi-9a80b2294",
-  //   instagram: "https://www.instagram.com/_pratimaannnn/profilecard",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Rounak Kumar Jha",
-  //   title: " Member",
-  //   image: img22,
-  //   linkedin: "https://www.linkedin.com/in/rounak-jha-92a867333/",
-  //   instagram: "https://www.instagram.com/jharounak13/",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Sahil Minz",
-  //   title: " Member",
-  //   image: img23,
-  //   linkedin:
-  //     "https://www.linkedin.com/in/sahil-minz-939655275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  //   instagram:
-  //     "https://www.instagram.com/sahil_minz13/profilecard/?igsh=MWJkOW45cmo0aG16ZQ==",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Shivangi Jha",
-  //   title: " Member",
-  //   image: img0,
-  //   linkedin: "https://www.linkedin.com/in/shivangi-jha-a32938258",
-  //   instagram:
-  //     "https://www.instagram.com/__enchanted_.11?igsh=MXMyNnZnOWhyZ2oycA==",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Shubham Garg",
-  //   title: " Member",
-  //   image: img25,
-  //   linkedin: "https://www.linkedin.com/in/shubham-garg-48ab3a289",
-  //   instagram:
-  //     "https://www.instagram.com/shubham_garg4444/profilecard/?igsh=MXYwYmg2MnlhYjFkZw==",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Vinay Kumar",
-  //   title: " Member",
-  //   image: img27,
-  //   linkedin: "https://www.linkedin.com/in/vinay-kumar-100a94311",
-  //   instagram:
-  //     "https://www.instagram.com/hii_i_am_vinay/profilecard/?igsh=N3BubzN4bjYzNWsx",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Waquee Mubarak",
-  //   title: " Member",
-  //   image: img28,
-  //   linkedin: "https://www.linkedin.com/in/waquee-mubarak-a69041208",
-  //   instagram:
-  //     "https://www.instagram.com/waquee_mk/profilecard/?igsh=dTUwejdsdnpicGRw",
-  // },
-  // {
-  //   category: "Core Committee",
-  //   name: "Yatharth Pal",
-  //   title: " Member",
-  //   image: img29,
-  //   linkedin: "https://www.linkedin.com/in/yatharth-pal-3b31a4226",
-  //   instagram:
-  //     "https://www.instagram.com/yattharrthh/profilecard/?igsh=MXZvbzZhYjUyMXBqZg==",
-  // },
+  {
+    category: "Core Committee",
+    name: "Chanpreet Kaur",
+    title: " Software Lead",
+    image: img19,
+    linkedin: "https://www.linkedin.com/in/chanpreet-kaur-1a92b2322/",
+    // instagram:
+    //   "#",
+  },
+  {
+    category: "Core Committee",
+    name: "Devesh Yadav",
+    title: "Member",
+    image: img20,
+    linkedin: "#",
+    instagram:
+      "https://www.instagram.com/devesh._.12/?utm_source=ig_web_button_share_sheet",
+  },
+  {
+    category: "Core Committee",
+    name: "Aaditi",
+    title: " Member",
+    image: img21,
+    linkedin: "https://www.linkedin.com/in/aaditi-6489a6310/",
+    instagram:
+      "https://www.instagram.com/aadiwithtea15?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Hansika",
+    title: "Member",
+    image: img22,
+    linkedin: "https://www.linkedin.com/in/hansika-sharma-a07813398/",
+    instagram: "https://www.instagram.com/_sharma.jiiiii_/?utm_source=ig_web_button_share_sheet",
+  },
+  {
+    category: "Core Committee",
+    name: "Harsh Kumar Bhati",
+    title: " Member",
+    image: img23,
+    linkedin: "https://www.linkedin.com/in/harrshbhati/",
+    instagram: "https://www.instagram.com/harrshbhati?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Ishant Sharma",
+    title: " Member",
+    image: img24,
+    linkedin:
+      "https://www.linkedin.com/in/ishant-sharma-877073335/",
+    instagram:
+      "https://www.instagram.com/ishant2_004?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Jatin",
+    title: " Member",
+    image: img25,
+    linkedin: "https://www.linkedin.com/in/jatin-bhardwaj-207515300/",
+    instagram:
+      "https://www.instagram.com/jatinbhardwaj1001?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Shubham Garg",
+    title: " Member",
+    image: img26,
+    linkedin: "https://www.linkedin.com/in/shubham-garg-48ab3a289",
+    instagram:
+      "https://www.instagram.com/shubham_garg4444/profilecard/?igsh=MXYwYmg2MnlhYjFkZw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Shubham Raj",
+    title: " Member",
+    image: img27,
+    linkedin: "https://www.linkedin.com/in/shubham-raj-aa5b56352/",
+    instagram:
+      "https://www.instagram.com/shubhamrajj131003?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Snehasish Kundu ",
+    title: " Member",
+    image: img28,
+    linkedin: "https://www.linkedin.com/in/snehasish-kundu-604a17296/",
+    instagram:
+      "#",
+  },
+  {
+    category: "Core Committee",
+    name: "Talha",
+    title: " Member",
+    image: img29,
+    linkedin: "https://www.linkedin.com/in/talha-mohammed-13-04-eee/",
+    instagram:
+      "https://www.instagram.com/its_talha._?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+{
+    category: "Core Committee",
+    name: "Udit Saini",
+    title: " Member",
+    image: img30,
+    linkedin: "#",
+    instagram:
+      "https://www.instagram.com/udit_07_saini?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Naman Gupta",
+    title: " Member",
+    image: img31,
+    linkedin: "https://www.linkedin.com/in/naman-gupta-717bb3360/",
+    instagram:
+      "https://www.instagram.com/___naman_g?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Pershant",
+    title: " Member",
+    image: img32,
+    linkedin: "https://www.linkedin.com/in/pershant-sharma-11a6a2343/",
+    instagram:
+      "https://www.instagram.com/pershant506?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Rahul Raj",
+    title: " Member",
+    image: img33,
+    linkedin: "https://www.linkedin.com/in/26-11-rahul-raj/",
+    instagram:
+      "https://www.instagram.com/_.shadeofblack_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
 ];
 
 const GlowingText = ({ children }) => (
