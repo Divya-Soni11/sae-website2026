@@ -28,11 +28,16 @@ const img30 =`${process.env.REACT_APP_BUCKET}Udit Saini.JPG`;
 const img31 =`${process.env.REACT_APP_BUCKET}Naman Gupta.jpg`;
 const img32 =`${process.env.REACT_APP_BUCKET}Pershant.jpg`;
 const img33 =`${process.env.REACT_APP_BUCKET}Rahul Raj.jpeg`;
-// const img34 =`${process.env.REACT_APP_BUCKET}shubh.webp`;
-// const img35 =`${process.env.REACT_APP_BUCKET}aaditi.jpg`;
-// const img36 =`${process.env.REACT_APP_BUCKET}Addhar.jpg`;
-// const img37 =`${process.env.REACT_APP_BUCKET}atri.jpg`;
-// const img38 =`${process.env.REACT_APP_BUCKET}divanyanshu.jpg`;
+const img34 =`${process.env.REACT_APP_BUCKET}Anushka Sharma.png`;
+const img35 =`${process.env.REACT_APP_BUCKET}Anvi.png`;
+const img36 =`${process.env.REACT_APP_BUCKET}Pragati.jpg`;
+const img37 =`${process.env.REACT_APP_BUCKET}Rashim garg.jpg`;
+const img38 =`${process.env.REACT_APP_BUCKET}Sahil Minz.png`;
+const img39 =`${process.env.REACT_APP_BUCKET}sehaj.jpg`;
+const img40 =`${process.env.REACT_APP_BUCKET}Shrishti_Tripathi.jpg`;
+const img41=`${process.env.REACT_APP_BUCKET}Sweksha Mahto.jpeg`;
+const img24=`${process.env.REACT_APP_BUCKET}Vinit.jpeg`;
+
 
 const teamMembers = [
   {
@@ -253,6 +258,88 @@ const teamMembers = [
     instagram:
       "https://www.instagram.com/_.shadeofblack_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
+  {
+    category: "Core Committee",
+    name: "Anushka Sharma",
+    title: " Member",
+    image: img34,
+    linkedin: "#",
+    instagram:
+      "https://www.instagram.com/_anushka26.09/?utm_source=ig_web_button_share_sheet",
+  },
+  {
+    category: "Core Committee",
+    name: "Anvi",
+    title: " Member",
+    image: img35,
+    linkedin: "#",
+    instagram:
+      "#",
+  },
+  {
+    category: "Core Committee",
+    name: "Pragati Negi",
+    title: " Member",
+    image: img36,
+    linkedin: "#",
+    instagram:
+      "https://www.instagram.com/_.pragati._16?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
+  {
+    category: "Core Committee",
+    name: "Rashim Garg",
+    title: " Member",
+    image: img37,
+    linkedin: "https://www.linkedin.com/in/rashim-garg-27a53b321/",
+    instagram:
+      "https://www.instagram.com/rshm.me?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Sahil Minz",
+    title: " Member",
+    image: img38,
+    linkedin: "https://www.linkedin.com/in/sahil-minz-939655275/",
+    instagram:
+      "https://www.instagram.com/sahil_minz13?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Sehaj",
+    title: " Member",
+    image: img39,
+    linkedin: "https://www.linkedin.com/in/sehajbansal/",
+    instagram:
+      "https://www.instagram.com/sehaj._.bansal?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Shrishti Tripathi",
+    title: " Member",
+    image: img40,
+    linkedin: "https://www.linkedin.com/in/shrishti-tripathi-062b7a229/",
+    instagram:
+      "https://www.instagram.com/_shrishti_tripathi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Sweksha Mahto",
+    title: " Member",
+    image: img41,
+    linkedin: "https://www.linkedin.com/in/sweksha-mahto-3324472b6/",
+    instagram:
+      "https://www.instagram.com/_sweksha_.15?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+  {
+    category: "Core Committee",
+    name: "Vinit",
+    title: " Member",
+    image: img42,
+    linkedin: "https://www.linkedin.com/in/vinit-kumar-singh-b36b2b2b5/",
+    instagram:
+      "https://www.instagram.com/iamvinit09?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
+
+
 ];
 
 const GlowingText = ({ children }) => (
