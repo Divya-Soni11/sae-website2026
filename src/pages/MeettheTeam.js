@@ -11,7 +11,7 @@ const img13 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/4.png`;
 const img15 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/5.png`;
 const img16 =`${process.env.REACT_APP_BUCKET}EB PHOTO 2025 (1)/7.png`;
 const img17 =`${process.env.REACT_APP_BUCKET}}EB PHOTO 2025 (1)/8.png`;
-// const img18 =`${process.env.REACT_APP_BUCKET}image10.jpg`;
+const img18 =`${process.env.REACT_APP_BUCKET}Divya Soni.png`;
 // const img19 =`${process.env.REACT_APP_BUCKET}image11.jpeg`;
 // const img20 =`${process.env.REACT_APP_BUCKET}image12.jpg`;
 // const img21 =`${process.env.REACT_APP_BUCKET}image13.png`;
@@ -37,7 +37,7 @@ const img17 =`${process.env.REACT_APP_BUCKET}}EB PHOTO 2025 (1)/8.png`;
 const teamMembers = [
   {
     category: "Executive Board",
-    name: "Vinay ",
+    name: "Vinay Kumar",
     title: "Chairperson",
     image: img9,
     linkedin: "https://www.linkedin.com/in/vinay-kumar-100a94311/",
@@ -110,15 +110,15 @@ const teamMembers = [
     instagram:
       "https://www.instagram.com/binavolent?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
-  // {
-  //   category: "Core Committee",
-  //   name: "Ambar Chaurasiya",
-  //   title: " Member",
-  //   image: img18,
-  //   linkedin: "https://www.linkedin.com/in/ambar-chaurasiya-5759242a9",
-  //   instagram:
-  //     "https://www.instagram.com/ambar_chaurasiya?igsh=MW1pZDAyNGRkZnhhcg==",
-  // },
+  {
+    category: "Core Committee",
+    name: "Divya Soni",
+    title: " Software Lead",
+    image: img18,
+    linkedin: "https://www.linkedin.com/in/divya-soni-767216281/",
+    instagram:
+      "https://www.instagram.com/divyasoni._1011?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
   // {
   //   category: "Core Committee",
   //   name: "Moksh Garg",
